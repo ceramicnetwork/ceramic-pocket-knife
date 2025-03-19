@@ -2,7 +2,7 @@
 
 ## Install
 
-    git clone http://github.com/nathanielc/ceramic-pocket-knife.git
+    git clone http://github.com/ceramicnetwork/ceramic-pocket-knife.git
     cd ceramic-pocket-knife
     cargo install --locked --path .
 
