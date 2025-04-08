@@ -62,7 +62,7 @@ sqlx = { version = "=0.7.0", features = [
     "sqlite",
     "runtime-tokio",
 ], optional = true }
-tokio = { version = "1.32", features = [
+tokio = { version = "1.38", features = [
     "rt",
     "rt-multi-thread",
     "macros",
