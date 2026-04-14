@@ -57,7 +57,7 @@ multihash = { version = "0.19", optional = true }
 multihash-codetable = { version = "0.1", features = ["sha2"], optional = true }
 multihash-derive = { version = "0.9", optional = true }
 multicodec = { version = "0.1.0", optional = true }
-rand = { version = "0.8.5", features = ["small_rng"] }
+rand = { version = "0.9.3", features = ["small_rng"] }
 sqlx = { version = "=0.7.0", features = [
     "sqlite",
     "runtime-tokio",
